@@ -12,3 +12,5 @@ https://demoblockchain.org/block
 1 valid hash has starting 0000   ex: 0000f727854b50bb95c054b39c1fe5c92e5ebcfa4bcb5dc279f56aa96a365e5a
 
 structure : block number , Nonce , data , previous hash , hash 
+
+ A nonce is a number that is used only once as part of the mining process in Bitcoin.
