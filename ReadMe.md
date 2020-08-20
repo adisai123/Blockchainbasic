@@ -14,3 +14,6 @@ https://demoblockchain.org/block
 structure : block number , Nonce , data , previous hash , hash 
 
  A nonce is a number that is used only once as part of the mining process in Bitcoin.
+
+
+https://btc.com/
