@@ -27,3 +27,6 @@ A purely peer to peer version of electronic cash would allow online payments to 
 In cryptography and computer science, a hash tree or Merkle tree is a tree in which every leaf node is labelled with the cryptographic hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes. Hash trees allow efficient and secure verification of the contents of large data structures. Hash trees are a generalization of hash lists and hash chains.
 
 Merkle root is the summary of all the transaction in that block.
+
+
+There will be a maximum number of 21 million bitcoins available. This number will be reached in the year 2140.
