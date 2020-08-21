@@ -17,3 +17,6 @@ structure : block number , Nonce , data , previous hash , hash
 
 
 https://btc.com/
+
+
+A purely peer to peer version of electronic cash would allow online payments to be send directly from one party to another without going through finantial institution.
